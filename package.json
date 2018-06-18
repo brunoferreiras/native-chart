@@ -1,8 +1,8 @@
 {
   "name": "native-chart",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "### NOTE: Based on [react-native-chart](https://github.com/tomauty/react-native-chart).",
-  "main": "react-native-chart.flow.js",
+  "main": "./dist/Chart.js",
   "dependencies": {
     "babel-cli": "^6.10.1",
     "babel-eslint": "^6.0.0",
